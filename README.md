@@ -23,7 +23,7 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 ## Flowcharts of The Application
 
-
+![120771636-182e8e00-c528-11eb-92bb-f5856138c93f](https://user-images.githubusercontent.com/42567084/185896784-d84b8c53-0c1c-46f1-8f1d-ee841da964af.png)
 
 
 
